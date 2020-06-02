@@ -1,0 +1,5 @@
+<launch>
+  <node pkg="custom_point_publisher_and_subscriber" type="point_pub" name="point_pub" />
+  <node pkg="custom_point_publisher_and_subscriber" type="sub_info_log" name="sub_info_log" output="screen" />
+  <node pkg="custom_point_publisher_and_subscriber" type="sub_pub_id" name="sub_pub_id" />
+</launch>
