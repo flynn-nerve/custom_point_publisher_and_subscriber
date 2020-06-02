@@ -10,7 +10,7 @@ A package (C++) for learninghow to write a custom message, publisher node, subsc
 	detect\_obstacles.launch
 
 # To Run the Example:
-roslaunch custom\_point\_publisher_\and\_subscriber detect\_obstacles.launch
+roslaunch custom\_point\_publisher\_and\_subscriber detect\_obstacles.launch
 
 
 ## Random Number (Point) Generator and Publisher - (point\_pub.cpp)
